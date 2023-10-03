@@ -1,0 +1,2 @@
+raul, b'$2b$12$6T8J550HuOjULNK6v6s30OrBklwWLP1M3CPc5PLxVCjvdZaEyUe2a'
+raul1, b'$2b$12$0wMJ2Ezbln.O./usrlaT0.AGDGuhFA651ZOwPBKF1FTsg/0P2YlUy'
